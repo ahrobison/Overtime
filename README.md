@@ -16,6 +16,8 @@ X AdminUser -> STI
 
 ## UI:
 X Bootstrap -> formatting
+- Icons from Font Awesome
+- Update the styles for forms
 
 ## refactor todos:
 X add full name method for users
