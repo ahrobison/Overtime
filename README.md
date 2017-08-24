@@ -23,3 +23,4 @@ X Update the styles for forms
 ## refactor todos:
 X add full name method for users
 - refactor user association integration test in post_spec
+- refactor posts/_form for admin user with status
