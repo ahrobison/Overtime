@@ -12,8 +12,16 @@ FactoryGirl.define do
   end
 
   factory :admin_user, class: "AdminUser" do
-    first_name 'Admin'
-    last_name 'User'
+    first_name 'Ernst'
+    last_name 'Blofeld'
+    email { generate :email }
+    password "asdfasdf"
+    password_confirmation "asdfasdf"
+  end
+
+  factory :non_authorized_user, class: "AdminUser" do
+    first_name 'Doctor'
+    last_name 'Evil'
     email { generate :email }
     password "asdfasdf"
     password_confirmation "asdfasdf"
