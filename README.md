@@ -22,7 +22,7 @@ X Update the styles for forms
 
 ## refactor todos:
 X add full name method for users
-- refactor user association integration test in post_spec
+X refactor user association integration test in post_spec
 - refactor posts/_form for admin user with status
-- Fix post_spec.rb:82 to use factories
-- Fix post_spec.rb:52 to have correct user reference
+X Fix post_spec.rb:82 to use factories
+X Fix post_spec.rb:52 to have correct user reference
