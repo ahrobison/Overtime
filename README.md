@@ -22,9 +22,15 @@ X Bootstrap -> formatting
 X Icons from glyphicons
 X Update the styles for forms
 
-## refactor todos:
+<!-- ## refactor todos:
 X add full name method for users
 X refactor user association integration test in post_spec
 X refactor posts/_form for admin user with status
 X Fix post_spec.rb:82 to use factories
-X Fix post_spec.rb:52 to have correct user reference
+X Fix post_spec.rb:52 to have correct user reference -->
+
+## TODOs
+- Integrate validation for phone attr in User:
+	# No spaces or dashes
+	# exactly 10 characters
+	# all characters have to be a number
