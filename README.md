@@ -29,8 +29,8 @@ X refactor posts/_form for admin user with status
 X Fix post_spec.rb:82 to use factories
 X Fix post_spec.rb:52 to have correct user reference -->
 
-## TODOs
-- Integrate validation for phone attr in User:
+<!-- ## TODOs
+X Integrate validation for phone attr in User:
 	# No spaces or dashes
 	# exactly 10 characters
-	# all characters have to be a number
+	# all characters have to be a number -->
