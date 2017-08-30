@@ -15,4 +15,4 @@ module SmsTool
 	end
 end
 
-SmsTool.send_sms(number: '7209844709', message: "Look at me, i can text people now!")
+# SmsTool.send_sms(number: '7209844709', message: "Look at me, i can text people now!")
