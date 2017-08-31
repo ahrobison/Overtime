@@ -9,12 +9,20 @@
 }
 
 .homepage-block {
-	background-color: #78b1bc;
+	background-color: #349caf;
 	color: white;
 	margin: 12px 42px 12px 42px;
 	padding: 15px;
 	-webkit-border-radius: 5px;
 	-moz-border-radius: 5px;
 	border-radius: 5px;
+}
+
+.pending-details {
+	font-weight: 900;
+}
+
+.homepage-block:hover {
+	background-color: #036f82;
 }
 
