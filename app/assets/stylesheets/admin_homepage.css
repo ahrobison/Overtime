@@ -11,9 +11,10 @@
 .homepage-block {
 	background-color: #78b1bc;
 	color: white;
-	margin: 15px;
+	margin: 12px 42px 12px 42px;
 	padding: 15px;
 	-webkit-border-radius: 5px;
 	-moz-border-radius: 5px;
 	border-radius: 5px;
 }
+
