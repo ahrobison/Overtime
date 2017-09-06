@@ -11,11 +11,12 @@ X AuditLog ->
 
 ## Features:
 X Approval Workflow
-- SMS Sending -> link to approval or overtime input -> integrate with heroku scheduler
+X SMS Sending -> link to approval or overtime input -> integrate with heroku scheduler
 X Administrate admin dashboard
 - Email summary to managers for approval
 X Needs to be documented if employee did not log overtime
 X Block non admin and guest users
+- Create audit log for sms messages
 
 ## UI:
 X Bootstrap -> formatting
