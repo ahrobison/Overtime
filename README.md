@@ -16,8 +16,8 @@ X Administrate admin dashboard
 - Email summary to managers for approval
 X Needs to be documented if employee did not log overtime
 X Block non admin and guest users
-- Create audit log for sms messages
-= Need to update end_date when confirmed
+X Create audit log for sms messages
+X Need to update end_date when confirmed
 - need to update audit log status when an overtime requ. rejected
 - Home icon
 - Update buttons on employee homepage so they show on mobile
