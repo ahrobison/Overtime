@@ -18,12 +18,12 @@ X Needs to be documented if employee did not log overtime
 X Block non admin and guest users
 X Create audit log for sms messages
 X Need to update end_date when confirmed
-- need to update audit log status when an overtime requ. rejected
-- Home icon
-- Update buttons on employee homepage so they show on mobile
-- Update buttons to include timespan
-- Update button sort order on employee page
-- Remove unnecessary navbar buttons for managers
+X need to update audit log status when an overtime requ. rejected
+X Home icon
+X Update buttons on employee homepage so they show on mobile
+X Update buttons to include timespan
+X Update button sort order on employee page
+X Remove unnecessary navbar buttons for managers
 - fix bug in Admin dashboard
 - implement honeybadger for error reporting
 - implement new relic for keeping site alive
